@@ -9,7 +9,7 @@ This is a simple Flask API that allows you to manage data records. You can perfo
 2. Install the required dependencies by running the following command:
 
     ```bash
-    pip install -r requirements.txt
+    pip install Flask
     ```
 
 3. Start the Flask server by running:
