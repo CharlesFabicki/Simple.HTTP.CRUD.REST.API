@@ -51,7 +51,7 @@ curl http://127.0.0.1:5000/get_data/2
 ```
 ### Adding Data with a Specific ID (Assuming ID is 5):
 ```bash
-curl -X POST -H "Content-Type: application/json" -d '{"name": "John Doe", "age": 35, "id": 5}' http://127.0.0.1:5000/add_data
+curl -X POST -H "Content-Type: application/json" -d '{"name": "John Smith", "age": 35, "id": 5}' http://127.0.0.1:5000/add_data
 ```
 ### Deleting Specific Data by ID (Assuming ID is 3):
 ```bash
