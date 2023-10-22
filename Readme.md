@@ -25,7 +25,6 @@ This is a simple Flask API that allows you to manage data records. You can perfo
 http://127.0.0.1:5000/get_data
 ```
 ## USE BASH CONSOLE HERE
-![Preview](https://github.com/CharlesFabicki/Simple.HTTP.CRUD.REST.API.using.Flask/assets/103677730/c575ec32-2e76-4cd1-8f7e-478f133563ae)
 
 ### Retrieve Data
 ```bash
@@ -36,6 +35,7 @@ curl http://127.0.0.1:5000/get_data
 curl -X POST -H "Content-Type: application/json" -d '{"name": "Charles Fabicki", "age": 26}' http://127.0.0.1:5000/add_data
 ```
 ## Example Screenshot
+![Preview](https://github.com/CharlesFabicki/Simple.HTTP.CRUD.REST.API.using.Flask/assets/103677730/c575ec32-2e76-4cd1-8f7e-478f133563ae)
 
 ### Deleting All Data 
 ```bash
