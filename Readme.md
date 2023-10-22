@@ -15,7 +15,7 @@ This is a simple Flask API that allows you to manage data records. You can perfo
 3. Start the Flask server by running:
 
     ```bash
-    python main.py
+    python HTTP_CRUD-Flask-API.py
     ```
 
 ## API Endpoints HOW DOES IT WORK?
